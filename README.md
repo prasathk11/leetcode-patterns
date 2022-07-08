@@ -1,5 +1,5 @@
 # Leetcode Patterns
-
+- [company wise question](https://seanprashad.com/leetcode-patterns/)
 ## Table of Contents
 
 - [Background](#background)
